@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/intake/intake-stac/commit/227a74c5d3968b926ab0bda1526fa7ae3558deab",
       "git:hexsha": "227a74c5d3968b926ab0bda1526fa7ae3558deab",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/intake/intake-stac/commit/15cdf9aa9b7324729ced3a35c3fcf1896cb6b53e",
